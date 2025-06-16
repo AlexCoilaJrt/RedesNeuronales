@@ -56,7 +56,7 @@ Este proyecto implementa una **Red Neuronal de Hamming** desde cero en Python, c
 python hamming.py
 
 
-# 🖥️ MNIST Handwritten Digit Classifier con TensorFlow
+# 🖥️ Red Neuronal MNIST: Clasificador de Dígitos Manuscritos
 
 Este proyecto proporciona un **manual de usuario** para ejecutar y entender un script en Python que:
 
