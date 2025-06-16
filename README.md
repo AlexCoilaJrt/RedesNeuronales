@@ -5,7 +5,7 @@ Este proyecto muestra cómo funciona un perceptrón para clasificar si una perso
 🔍 **¿Qué hace?** Entrena un perceptrón manualmente (desde cero). Compara resultados con scikit‑learn. Visualiza: Zona de decisión (quién es aprobado o denegado), estructura del perceptrón y frontera de decisión del modelo entrenado.
 
 📦 **Requisitos** Asegúrate de tener Python 3 y estas librerías:
-```bash
+
 pip install numpy matplotlib scikit‑learn
 ▶️ Cómo ejecutar Guarda el archivo como perceptron_tarjeta.py y corre:
 
